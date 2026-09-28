@@ -1,0 +1,175 @@
+/* ============================================================
+   Markdown PDF - Estilos personalizados
+   ============================================================ */
+
+
+/* ------------------------------------------------------------
+   1. BLOQUES DE CÓDIGO
+   ------------------------------------------------------------ */
+
+/*
+ * Evita que Chromium divida un bloque de código
+ * entre dos páginas cuando el bloque cabe completo.
+ */
+pre {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+}
+
+
+/*
+ * Evita márgenes excesivos alrededor del código.
+ */
+pre {
+    margin-top: 0.8em;
+    margin-bottom: 0.8em;
+}
+
+
+/*
+ * Código monoespaciado.
+ *
+ * Deja DejaVu Sans Mono como primera opción porque
+ * es la fuente que ya tienes instalada.
+ */
+pre,
+pre code,
+code {
+    font-family:
+        "DejaVu Sans Mono",
+        "SFMono-Regular",
+        Menlo,
+        Monaco,
+        Consolas,
+        monospace;
+}
+
+
+/* ------------------------------------------------------------
+   2. TAMAÑO DEL CÓDIGO
+   ------------------------------------------------------------ */
+
+pre {
+    font-size: 0.85em;
+    line-height: 1.35;
+}
+
+
+/* ------------------------------------------------------------
+   3. ESPACIADO INTERNO
+   ------------------------------------------------------------ */
+
+pre {
+    padding: 10px 12px;
+}
+
+
+/* ------------------------------------------------------------
+   4. CÓDIGO INLINE
+   ------------------------------------------------------------ */
+
+:not(pre) > code {
+    font-family:
+        "DejaVu Sans Mono",
+        "SFMono-Regular",
+        Menlo,
+        Monaco,
+        Consolas,
+        monospace;
+
+    font-size: 0.9em;
+}
+
+
+/* ------------------------------------------------------------
+   5. EVITAR QUE EL TÍTULO QUEDE SEPARADO DEL CÓDIGO
+   ------------------------------------------------------------ */
+
+/*
+ * Si tienes:
+ *
+ * ## Ejemplo
+ *
+ * ```java
+ * ...
+ * ```
+ *
+ * intenta mantener el título junto con el bloque.
+ */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    page-break-after: avoid;
+    break-after: avoid;
+}
+
+
+/* ------------------------------------------------------------
+   6. TABLAS
+   ------------------------------------------------------------ */
+
+/*
+ * Evita cortes de página innecesarios dentro de filas.
+ */
+
+table {
+    page-break-inside: avoid;
+    break-inside: avoid;
+}
+
+
+/* ------------------------------------------------------------
+   7. IMÁGENES
+   ------------------------------------------------------------ */
+
+img {
+    max-width: 100%;
+}
+
+
+/* ------------------------------------------------------------
+   8. LISTAS
+   ------------------------------------------------------------ */
+
+li {
+    page-break-inside: avoid;
+    break-inside: avoid;
+}
+
+
+/* ------------------------------------------------------------
+   9. ENCABEZADOS
+   ------------------------------------------------------------ */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    page-break-before: auto;
+}
+
+
+/* ------------------------------------------------------------
+   10. BLOQUES DE CÓDIGO MUY LARGOS
+   ------------------------------------------------------------ */
+
+/*
+ * IMPORTANTE:
+ *
+ * Si un bloque de código es más alto que una página,
+ * Chromium necesariamente tendrá que dividirlo.
+ *
+ * No podemos evitarlo sin reducir el tamaño del código
+ * hasta que quepa completo.
+ */
+
+pre {
+    max-width: 100%;
+    overflow-x: auto;
+}

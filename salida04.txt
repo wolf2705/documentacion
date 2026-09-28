@@ -1,0 +1,821 @@
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `1-c--net' on page 1
+  undefined on input line 132.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `2-angular' on page 1
+  undefined on input line 134.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `3-full-stack' on page 1
+  undefined on input line 136.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `4-preguntas-de-entrevista'
+  on page 1 undefined on input line 138.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `asuxed-puedes-comparar-objetivamente-a-varios-candidatos'
+  on page 1 undefined on input line 150.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `-testgorilla' on page 1
+  undefined on input line 164.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `-hackerrank' on page 1
+  undefined on input line 166.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `-devskiller' on page 1
+  undefined on input line 168.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `1-w3schools--angular' on
+  page 1 undefined on input line 191.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `2-w3schools--c' on page 1
+  undefined on input line 193.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `3-welovedevs--angular' on
+  page 1 undefined on input line 195.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `4-tixpapa--c-quiz' on page 1
+  undefined on input line 197.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `-pero-encontruxe9-algo-muy-interesante-para-tu-caso' on
+  page 1 undefined on input line 212.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `assessment-full-stack-c--angular--100-puntos' on page 1
+  undefined on input line 221.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `assessment-full-stack--cnet--angular' on page 1 undefined
+  on input line 226.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `parte-1--c--20-puntos' on
+  page 1 undefined on input line 245.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `parte-2--aspnet-core--15-puntos' on page 1 undefined on
+  input line 262.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `parte-3--angular--25-puntos'
+  on page 1 undefined on input line 279.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `parte-4--sql--15-puntos' on
+  page 2 undefined on input line 299.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `parte-5--coding--25-puntos'
+  on page 2 undefined on input line 311.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `-nivel-mid' on page 2
+  undefined on input line 322.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `parte-1--c-avanzado' on page
+  2 undefined on input line 327.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `parte-2--aspnet-core' on
+  page 2 undefined on input line 343.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `parte-3--angular' on page 2
+  undefined on input line 345.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `parte-4--coding-mid' on page
+  2 undefined on input line 359.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `-nivel-senior' on page 2
+  undefined on input line 370.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `parte-1--architecture' on
+  page 2 undefined on input line 375.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `senior--code-review' on page
+  2 undefined on input line 383.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `senior--angular-code-review'
+  on page 2 undefined on input line 385.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `senior--coding-challenge' on
+  page 2 undefined on input line 387.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `-ruxfabrica-senior' on page
+  2 undefined on input line 401.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `-lo-que-yo-haruxeda-para-tu-proceso' on page 2 undefined on
+  input line 410.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `assessment-tuxe9cnico--full-stack-junior' on page 2
+  undefined on input line 417.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `parte-1--c-fundamentals' on
+  page 2 undefined on input line 425.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `1-cuuxe1l-es-la-diferencia-principal-entre-una-class-y-un-struct-en-c'
+  on page 2 undefined on input line 432.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `2-quuxe9-imprime-el-siguiente-cuxf3digo' on page 2
+  undefined on input line 435.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `3-cuuxe1l-es-el-propuxf3sito-de-una-interfaz' on page 2
+  undefined on input line 438.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `4-cuuxe1l-es-una-ventaja-de-utilizar-asyncawait' on page 2
+  undefined on input line 441.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `5-quuxe9-devuelve-este-muxe9todo' on page 2 undefined on
+  input line 444.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `6-quuxe9-hace-linq' on page
+  2 undefined on input line 446.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `7-cuuxe1l-es-el-resultado'
+  on page 2 undefined on input line 448.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `8-para-quuxe9-se-utiliza-trycatch' on page 2 undefined on
+  input line 451.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `9-quuxe9-problema-puede-existir-en-este-cuxf3digo' on page
+  2 undefined on input line 454.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `10-quuxe9-principio-de-programaciuxf3n-recomienda-que-una-clase-tenga-una-uxfanica-responsabilidad'
+  on page 2 undefined on input line 458.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `parte-2--aspnet-core--web-api' on page 2 undefined on input
+  line 462.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `11-quuxe9-es-aspnet-core' on
+  page 2 undefined on input line 467.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `12-quuxe9-http-status-code-representa-normalmente-una-respuesta-exitosa'
+  on page 2 undefined on input line 471.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `13-quuxe9-status-code-utilizaruxedas-normalmente-cuando-un-recurso-no-existe'
+  on page 2 undefined on input line 475.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `14-quuxe9-muxe9todo-http-utilizaruxedas-normalmente-para-crear-un-nuevo-recurso'
+  on page 2 undefined on input line 479.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `15-quuxe9-es-dependency-injection' on page 3 undefined on
+  input line 482.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `16-cuuxe1l-es-una-responsabilidad-tuxedpica-de-un-controller'
+  on page 3 undefined on input line 485.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `17-quuxe9-es-middleware-en-aspnet-core' on page 3 undefined
+  on input line 488.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `parte-3--entity-framework-core--sql' on page 3 undefined on
+  input line 492.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `18-quuxe9-es-entity-framework-core' on page 3 undefined on
+  input line 498.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `19-quuxe9-representa-normalmente-un-dbcontext' on page 3
+  undefined on input line 501.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `20-quuxe9-hace-savechangesasync' on page 3 undefined on
+  input line 504.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `21-quuxe9-hace-un-inner-join' on page 3 undefined on input
+  line 507.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `22-quuxe9-hace-order-by' on
+  page 3 undefined on input line 510.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `23-quuxe9-hace-group-by' on
+  page 3 undefined on input line 513.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `24-considera-estas-tablas'
+  on page 3 undefined on input line 515.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `parte-4--angular--typescript' on page 3 undefined on input
+  line 519.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `25-quuxe9-es-angular' on
+  page 3 undefined on input line 524.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `26-quuxe9-lenguaje-se-utiliza-principalmente-para-desarrollar-aplicaciones-angular'
+  on page 3 undefined on input line 528.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `27-quuxe9-decorator-se-utiliza-para-definir-un-componente-angular'
+  on page 3 undefined on input line 531.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `28-para-quuxe9-se-utiliza-un-angular-service' on page 3
+  undefined on input line 534.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `29-quuxe9-herramienta-se-utiliza-normalmente-para-realizar-http-requests-en-angular'
+  on page 3 undefined on input line 538.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `30-quuxe9-es-un-observable'
+  on page 3 undefined on input line 540.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `31-quuxe9-hace-angular-routing' on page 3 undefined on
+  input line 543.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `32-para-quuxe9-se-utilizan-los-reactive-forms' on page 3
+  undefined on input line 546.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `33-quuxe9-es-typescript' on
+  page 3 undefined on input line 548.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `34-quuxe9-hace-ngfor' on
+  page 3 undefined on input line 550.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `parte-5--full-stack--integraciuxf3n' on page 3 undefined on
+  input line 554.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `35-tienes' on page 3
+  undefined on input line 559.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `36-por-quuxe9-no-deberuxedas-conectar-angular-directamente-a-sql-server'
+  on page 3 undefined on input line 562.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `37-quuxe9-formato-se-utiliza-comuxfanmente-para-intercambiar-datos-entre-angular-y-aspnet-core'
+  on page 3 undefined on input line 566.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `38-un-endpoint-devuelve' on
+  page 3 undefined on input line 568.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `39-un-endpoint-devuelve' on
+  page 3 undefined on input line 570.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `parte-6--preguntas-de-razonamiento' on page 3 undefined on
+  input line 574.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `40' on page 3 undefined on
+  input line 579.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `41' on page 3 undefined on
+  input line 581.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `42' on page 3 undefined on
+  input line 583.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `43' on page 3 undefined on
+  input line 585.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `44' on page 3 undefined on
+  input line 587.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `parte-7--coding-challenge'
+  on page 3 undefined on input line 590.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `guuxeda-de-evaluaciuxf3n--preguntas-abiertas' on page 3
+  undefined on input line 609.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `90100--junior-fuerte' on
+  page 3 undefined on input line 640.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `8089--junior' on page 3
+  undefined on input line 642.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `7079--junior-con-uxe1reas-de-mejora' on page 3 undefined on
+  input line 645.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `6069--junior-duxe9bil' on
+  page 3 undefined on input line 647.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `60--no-recomendado' on page
+  3 undefined on input line 649.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `assessment-tuxe9cnico--full-stack-mid-level' on page 4
+  undefined on input line 658.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `assessment-tuxe9cnico--full-stack-mid-level-1' on page 4
+  undefined on input line 664.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `parte-1--c--net' on page 4
+  undefined on input line 671.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `1-linq-y-ejecuciuxf3n-diferida' on page 4 undefined on
+  input line 677.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `2-ienumerable-vs-iqueryable'
+  on page 4 undefined on input line 680.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `3-quuxe9-problema-existe-aquuxed' on page 4 undefined on
+  input line 683.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `4-dependency-injection' on
+  page 4 undefined on input line 686.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `5-lifetimes' on page 4
+  undefined on input line 691.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `6-quuxe9-problema-puede-producir-un-dbcontext-singleton' on
+  page 4 undefined on input line 694.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `7-cuuxe1l-es-la-diferencia-principal-entre-task-y-thread'
+  on page 4 undefined on input line 698.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `8-quuxe9-ventaja-tiene-cancellationtoken' on page 4
+  undefined on input line 701.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `9-quuxe9-problema-tiene-este-cuxf3digo' on page 4 undefined
+  on input line 704.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `10-quuxe9-principio-solid-representa-mejor-la-idea-de-depender-de-abstracciones'
+  on page 4 undefined on input line 708.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `parte-2--aspnet-core--web-api-1' on page 4 undefined on
+  input line 712.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `11-quuxe9-diferencia-existe-entre-authentication-y-authorization'
+  on page 4 undefined on input line 718.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `12-un-endpoint-requiere-autenticaciuxf3n-y-el-usuario-no-proporciona-credenciales-vuxe1lidas'
+  on page 4 undefined on input line 722.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `13-un-usuario-estuxe1-autenticado-pero-no-tiene-permisos-para-ejecutar-una-operaciuxf3n'
+  on page 4 undefined on input line 726.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `14-quuxe9-es-un-dto' on page
+  4 undefined on input line 728.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `15-por-quuxe9-evitaruxedas-devolver-directamente-una-entidad-ef-core-desde-un-controller'
+  on page 4 undefined on input line 732.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `16-quuxe9-deberuxeda-hacer-una-api-ante-un-error-inesperado'
+  on page 4 undefined on input line 735.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `17-quuxe9-ventaja-ofrece-un-global-exception-handler' on
+  page 4 undefined on input line 738.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `18-cuuxe1l-seruxeda-una-buena-pruxe1ctica-para-almacenar-secretos-como-passwords-de-db-o-api-keys'
+  on page 4 undefined on input line 742.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `parte-3--entity-framework-core--sql-1' on page 4 undefined
+  on input line 746.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `19-quuxe9-problema-puede-existir-aquuxed' on page 4
+  undefined on input line 752.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `20-cuxf3mo-mejoraruxedas-una-consulta-de-solo-lectura' on
+  page 4 undefined on input line 755.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `21-quuxe9-hace-include' on
+  page 4 undefined on input line 758.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `22-cuuxe1l-consulta-es-preferible-si-solamente-necesitas-id-y-name'
+  on page 4 undefined on input line 761.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `23-quuxe9-problema-puede-provocar-traer-millones-de-registros-con-tolistasync'
+  on page 4 undefined on input line 765.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `24-quuxe9-soluciuxf3n-utilizaruxedas-para-una-api-que-muestra-50-registros-por-puxe1gina'
+  on page 4 undefined on input line 769.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `25-quuxe9-hace-un-uxedndice-en-una-base-de-datos' on page 4
+  undefined on input line 772.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `26-quuxe9-riesgo-existe-en-construir-sql-concatenando-directamente-input-del-usuario'
+  on page 4 undefined on input line 776.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `parte-4--angular--typescript-1' on page 4 undefined on
+  input line 780.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `27-cuuxe1l-es-una-ventaja-de-utilizar-reactive-forms' on
+  page 4 undefined on input line 786.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `28-quuxe9-problema-existe-aquuxed' on page 4 undefined on
+  input line 789.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `29-quuxe9-problema-es-muxe1s-evidente-aquuxed' on page 4
+  undefined on input line 792.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `30-si-necesitas-ejecutar-tres-requests-independientes-y-esperar-a-que-todas-terminen-quuxe9-operador-podruxeda-ser-apropiado'
+  on page 4 undefined on input line 796.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `31-quuxe9-operador-utilizaruxedas-frecuentemente-para-cancelar-la-request-anterior-cuando-llega-un-nuevo-valor'
+  on page 4 undefined on input line 800.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `32-quuxe9-escenario-es-apropiado-para-debouncetime' on page
+  4 undefined on input line 803.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `33-quuxe9-hace-un-http-interceptor' on page 4 undefined on
+  input line 806.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `34-para-quuxe9-podruxeda-utilizarse-un-interceptor' on page
+  4 undefined on input line 809.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `35-quuxe9-estrategia-puede-ayudar-a-mejorar-performance-en-angular'
+  on page 4 undefined on input line 812.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `36-quuxe9-problema-puede-existir-al-utilizar-muxfaltiples-subscriptions-manuales'
+  on page 4 undefined on input line 816.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `parte-5--full-stack--api-integration' on page 4 undefined
+  on input line 820.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `37-un-usuario-hace-login-correctamente' on page 4 undefined
+  on input line 826.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `38-duxf3nde-deberuxeda-validarse-una-regla-de-negocio-cruxedtica-como'
+  on page 4 undefined on input line 829.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `39-angular-recibe' on page 4
+  undefined on input line 831.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `40-por-quuxe9-una-api-deberuxeda-implementar-pagination-para-grandes-cantidades-de-datos'
+  on page 4 undefined on input line 835.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `41-un-endpoint-funciona-en-postman-pero-falla-desde-angular-con-cors'
+  on page 4 undefined on input line 839.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `parte-6--preguntas-abiertas--troubleshooting' on page 4
+  undefined on input line 843.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `42-performance-de-api' on
+  page 4 undefined on input line 848.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `43-angular' on page 4
+  undefined on input line 850.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `44-database' on page 5
+  undefined on input line 852.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `45-authentication' on page 5
+  undefined on input line 854.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `46-production-debugging' on
+  page 5 undefined on input line 856.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `parte-7--coding-challenge-1'
+  on page 5 undefined on input line 860.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `parte-8--coding-challenge-2'
+  on page 5 undefined on input line 877.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `pregunta-42--api-performance' on page 5 undefined on input
+  line 898.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `pregunta-43--requests-duplicadas' on page 5 undefined on
+  input line 901.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `pregunta-44--query-lenta' on
+  page 5 undefined on input line 903.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `pregunta-45--jwt--401' on
+  page 5 undefined on input line 905.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `pregunta-46--registro-duplicado' on page 5 undefined on
+  input line 908.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `90100--mid-level-fuerte' on
+  page 5 undefined on input line 937.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `8089--mid-level' on page 5
+  undefined on input line 939.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `7079--mid-level-con-uxe1reas-de-mejora' on page 5 undefined
+  on input line 942.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `6069--junior-avanzado' on
+  page 5 undefined on input line 944.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `60--junior--no-recomendado'
+  on page 5 undefined on input line 947.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `assessment-tuxe9cnico--full-stack-senior' on page 5
+  undefined on input line 961.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `assessment-tuxe9cnico--full-stack-senior-1' on page 5
+  undefined on input line 967.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `parte-1--c--net-avanzado' on
+  page 5 undefined on input line 978.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `1-async--await' on page 5
+  undefined on input line 983.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `2-dependency-injection' on
+  page 5 undefined on input line 985.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `3-garbage-collection' on
+  page 5 undefined on input line 987.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `4-idisposable' on page 5
+  undefined on input line 989.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `5-records' on page 5
+  undefined on input line 991.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `6-concurrencia' on page 5
+  undefined on input line 993.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `7-cuuxe1l-es-una-estrategia-posible-para-resolver-el-problema-anterior'
+  on page 5 undefined on input line 997.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `8-solid' on page 5 undefined
+  on input line 999.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `parte-2--aspnet-core--api-design' on page 5 undefined on
+  input line 1003.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `9-global-exception-handling'
+  on page 5 undefined on input line 1009.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `10-api-versioning' on page 5
+  undefined on input line 1011.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `11-idempotency' on page 5
+  undefined on input line 1013.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `12-rate-limiting' on page 5
+  undefined on input line 1015.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `13-authentication-vs-authorization' on page 5 undefined on
+  input line 1018.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `14-quuxe9-problema-existe-al-confiar-exclusivamente-en-autorizaciuxf3n-del-frontend'
+  on page 5 undefined on input line 1022.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `15-cuuxe1l-es-una-buena-pruxe1ctica-para-api-secrets' on
+  page 5 undefined on input line 1025.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `16-quuxe9-informaciuxf3n-no-deberuxeda-devolverse-normalmente-en-una-respuesta-de-error-de-producciuxf3n'
+  on page 6 undefined on input line 1029.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `parte-3--ef-core--sql--performance' on page 6 undefined on
+  input line 1033.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `17-quuxe9-problema-existe'
+  on page 6 undefined on input line 1038.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `18-quuxe9-alternativa-podruxeda-ser-apropiada-si-solo-necesitas-informaciuxf3n-especuxedfica'
+  on page 6 undefined on input line 1042.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `19-quuxe9-problema-puede-producir-skip-con-offsets-extremadamente-grandes'
+  on page 6 undefined on input line 1046.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `20-cuuxe1ndo-consideraruxedas-keysetcursor-pagination' on
+  page 6 undefined on input line 1049.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `21-quuxe9-herramienta-utilizaruxedas-para-investigar-por-quuxe9-una-query-sql-estuxe1-lenta'
+  on page 6 undefined on input line 1053.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `22-quuxe9-problema-puede-producir-un-uxedndice-excesivo' on
+  page 6 undefined on input line 1056.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `23-quuxe9-es-un-deadlock' on
+  page 6 undefined on input line 1058.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `24-quuxe9-utilizaruxedas-para-investigar-bloqueos-o-deadlocks'
+  on page 6 undefined on input line 1061.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `parte-4--angular--rxjs-avanzado' on page 6 undefined on
+  input line 1065.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `25-quuxe9-problema-existe'
+  on page 6 undefined on input line 1070.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `26-quuxe9-combinaciuxf3n-es-apropiada-para-un-search-box'
+  on page 6 undefined on input line 1073.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `27-por-quuxe9-switchmap-puede-ser-apropiado-para-buxfasquedas'
+  on page 6 undefined on input line 1076.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `28-cuuxe1ndo-usaruxedas-forkjoin' on page 6 undefined on
+  input line 1079.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `29-quuxe9-ventaja-puede-proporcionar-changedetectionstrategyonpush'
+  on page 6 undefined on input line 1083.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `30-cuuxe1l-es-una-estrategia-adecuada-para-listas-muy-grandes'
+  on page 6 undefined on input line 1086.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `31-quuxe9-problema-puede-causar-mantener-subscriptions-largas-sin-control'
+  on page 6 undefined on input line 1090.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `32-quuxe9-deberuxeda-considerar-un-senior-al-diseuxf1ar-un-angular-service'
+  on page 6 undefined on input line 1093.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `parte-5--security' on page 6
+  undefined on input line 1096.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `33-duxf3nde-deberuxeda-validarse-autorizaciuxf3n-para-una-operaciuxf3n-cruxedtica'
+  on page 6 undefined on input line 1102.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `34-quuxe9-es-sql-injection'
+  on page 6 undefined on input line 1104.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `35-cuxf3mo-reduciruxedas-riesgo-de-sql-injection' on page 6
+  undefined on input line 1107.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `36-quuxe9-problema-tiene-guardar-informaciuxf3n-sensible-en-localstorage'
+  on page 6 undefined on input line 1111.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `37-quuxe9-es-xss' on page 6
+  undefined on input line 1113.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `38-quuxe9-estrategia-ayuda-contra-xss' on page 6 undefined
+  on input line 1116.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `parte-6--system-design' on
+  page 6 undefined on input line 1119.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `39-diseuxf1o-de-sistema' on
+  page 6 undefined on input line 1124.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `a-arquitectura' on page 6
+  undefined on input line 1126.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `b-database' on page 6
+  undefined on input line 1128.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `c-caching' on page 6
+  undefined on input line 1130.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `d-messaging' on page 6
+  undefined on input line 1132.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `e-reliability' on page 6
+  undefined on input line 1134.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `f-observability' on page 6
+  undefined on input line 1136.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `g-security' on page 6
+  undefined on input line 1138.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `h-scalability' on page 6
+  undefined on input line 1140.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `parte-7--production-troubleshooting' on page 6 undefined on
+  input line 1144.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `40-api-lenta' on page 6
+  undefined on input line 1149.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `41-memory-leak' on page 6
+  undefined on input line 1151.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `42-angular-lento' on page 6
+  undefined on input line 1153.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `43-requests-duplicadas' on
+  page 6 undefined on input line 1155.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `44-error-intermitente' on
+  page 6 undefined on input line 1157.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `parte-8--code-review-backend' on page 6 undefined on input
+  line 1161.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `45-identifica-los-problemas'
+  on page 6 undefined on input line 1167.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `parte-9--code-review-angular' on page 6 undefined on input
+  line 1171.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `46-identifica-problemas-y-propone-mejoras' on page 6
+  undefined on input line 1177.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `parte-10--coding-challenge'
+  on page 6 undefined on input line 1180.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `parte-11--coding-challenge-angular' on page 6 undefined on
+  input line 1195.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `excelente--910-puntos' on
+  page 6 undefined on input line 1206.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `bueno--78-puntos' on page 7
+  undefined on input line 1208.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `regular--56-puntos' on page
+  7 undefined on input line 1210.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `duxe9bil--5-puntos' on page
+  7 undefined on input line 1212.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `90100--senior-fuerte' on
+  page 7 undefined on input line 1232.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `8089--senior' on page 7
+  undefined on input line 1234.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `7079--midsenior' on page 7
+  undefined on input line 1236.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `6069--mid-level-fuerte' on
+  page 7 undefined on input line 1238.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `60--no-senior' on page 7
+  undefined on input line 1240.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `1-lo-arreglo-en-angular' on
+  page 7 undefined on input line 1250.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `2-muxe1s-microservices' on
+  page 7 undefined on input line 1252.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `3-le-pongo-un-uxedndice' on
+  page 7 undefined on input line 1254.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `4-uso-singleton-para-mejorar-performance' on page 7
+  undefined on input line 1257.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `5-hago-retry' on page 7
+  undefined on input line 1259.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `6-deshabilito-el-botuxf3n'
+  on page 7 undefined on input line 1261.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `7-manejo-todo-con-trycatch'
+  on page 7 undefined on input line 1264.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `8-no-puede-explicar-su-propio-cuxf3digo' on page 7
+  undefined on input line 1267.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `prueba-de-cuxf3digo-full-stack--mid-level' on page 7
+  undefined on input line 1292.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `prueba-de-cuxf3digo-full-stack--mid-level-1' on page 7
+  undefined on input line 1298.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `cnet--angular--sql-server'
+  on page 7 undefined on input line 1301.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `1-objetivo' on page 7
+  undefined on input line 1306.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `2-escenario' on page 7
+  undefined on input line 1308.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `3-modelo-de-datos' on page 7
+  undefined on input line 1310.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `4-backend' on page 7
+  undefined on input line 1324.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `5-product-api' on page 7
+  undefined on input line 1326.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `6-category-api' on page 7
+  undefined on input line 1338.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `7-order-api' on page 7
+  undefined on input line 1340.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `8-consistencia' on page 7
+  undefined on input line 1342.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `9-consultar-uxf3rdenes' on
+  page 7 undefined on input line 1344.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `10-obtener-detalle-de-una-orden' on page 7 undefined on
+  input line 1347.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `11-requisitos-de-backend' on
+  page 7 undefined on input line 1349.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `12-angular' on page 7
+  undefined on input line 1351.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `13-product-list' on page 7
+  undefined on input line 1353.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `14-product-form' on page 8
+  undefined on input line 1355.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `15-edit-product' on page 8
+  undefined on input line 1357.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `16-orders' on page 8
+  undefined on input line 1359.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `17-create-order' on page 8
+  undefined on input line 1361.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `18-rxjs' on page 8 undefined
+  on input line 1363.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `19-angular-architecture' on
+  page 8 undefined on input line 1365.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `20-manejo-de-errores' on
+  page 8 undefined on input line 1367.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `21-requisitos-adicionales'
+  on page 8 undefined on input line 1369.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `22-testing' on page 8
+  undefined on input line 1379.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `23-bonus' on page 8
+  undefined on input line 1389.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `24-readme' on page 8
+  undefined on input line 1391.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `25-entregables' on page 8
+  undefined on input line 1405.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `26-criterios-de-evaluaciuxf3n' on page 8 undefined on input
+  line 1408.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `27-evaluaciuxf3n-del-nivel'
+  on page 8 undefined on input line 1410.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `90100' on page 8 undefined
+  on input line 1415.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `8089' on page 8 undefined on
+  input line 1417.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `7079' on page 8 undefined on
+  input line 1419.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `6069' on page 8 undefined on
+  input line 1421.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `60' on page 8 undefined on
+  input line 1423.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `28-restricciones' on page 8
+  undefined on input line 1426.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `29-pregunta-final' on page 8
+  undefined on input line 1428.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `prueba-de-cuxf3digo-full-stack--senior' on page 8 undefined
+  on input line 1435.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `cnet--angular--sql-server-1'
+  on page 8 undefined on input line 1441.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `1-objetivo-1' on page 8
+  undefined on input line 1443.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `2-escenario-1' on page 8
+  undefined on input line 1445.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `3-modelo-de-dominio' on page
+  8 undefined on input line 1447.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `4-regla-principal-de-negocio' on page 8 undefined on input
+  line 1462.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `5-backend' on page 8
+  undefined on input line 1464.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `6-product-api' on page 8
+  undefined on input line 1466.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `7-product-detail' on page 8
+  undefined on input line 1468.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `8-create-product' on page 8
+  undefined on input line 1470.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `9-update-product' on page 8
+  undefined on input line 1472.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `10-order-api' on page 8
+  undefined on input line 1474.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `11-concurrencia-de-inventario' on page 8 undefined on input
+  line 1477.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `12-idempotencia' on page 8
+  undefined on input line 1479.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `13-transaction-boundary' on
+  page 8 undefined on input line 1481.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `14-external-service' on page
+  8 undefined on input line 1483.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `15-consultar-uxf3rdenes' on
+  page 8 undefined on input line 1485.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `16-order-detail' on page 8
+  undefined on input line 1487.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `17-cancel-order' on page 8
+  undefined on input line 1489.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `18-security' on page 8
+  undefined on input line 1491.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `19-api-error-handling' on
+  page 9 undefined on input line 1493.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `20-sql--ef-core' on page 9
+  undefined on input line 1495.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `21-performance' on page 9
+  undefined on input line 1507.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `22-angular' on page 9
+  undefined on input line 1509.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `23-product-screen' on page 9
+  undefined on input line 1511.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `24-create-order' on page 9
+  undefined on input line 1513.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `25-rxjs' on page 9 undefined
+  on input line 1515.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `26-manejo-de-estado' on page
+  9 undefined on input line 1517.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `27-http-interceptor' on page
+  9 undefined on input line 1519.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `28-performance-angular' on
+  page 9 undefined on input line 1521.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `29-testing' on page 9
+  undefined on input line 1523.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `30-observabilidad' on page 9
+  undefined on input line 1533.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `31-health-check' on page 9
+  undefined on input line 1535.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `32-docker' on page 9
+  undefined on input line 1537.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `33-documentaciuxf3n' on page
+  9 undefined on input line 1539.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `34-parte-arquitectuxf3nica-obligatoria' on page 9 undefined
+  on input line 1564.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `35-restricciones' on page 9
+  undefined on input line 1578.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `36-entregables' on page 9
+  undefined on input line 1580.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `37-criterios-de-evaluaciuxf3n' on page 9 undefined on input
+  line 1583.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `38-bonus' on page 9
+  undefined on input line 1585.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `2' on page 9 undefined on
+  input line 1590.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `2-1' on page 9 undefined on
+  input line 1592.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `1' on page 9 undefined on
+  input line 1594.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `1-1' on page 9 undefined on
+  input line 1596.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `1-2' on page 9 undefined on
+  input line 1598.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `1-3' on page 9 undefined on
+  input line 1600.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `1-4' on page 9 undefined on
+  input line 1602.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `1-5' on page 9 undefined on
+  input line 1604.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `1-6' on page 9 undefined on
+  input line 1606.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `39-ruxfabrica-de-seniority'
+  on page 9 undefined on input line 1609.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `90100-1' on page 9 undefined
+  on input line 1614.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `8089-1' on page 9 undefined
+  on input line 1622.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `7079-1' on page 9 undefined
+  on input line 1630.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `6069-1' on page 9 undefined
+  on input line 1638.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `60-1' on page 10 undefined
+  on input line 1646.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `40-red-flags' on page 10
+  undefined on input line 1655.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference
+  `41-preguntas-de-revisiuxf3n-durante-la-entrevista' on page
+  10 undefined on input line 1682.
+[WARNING] [makePDF] LaTeX Warning: Hyper reference `42-decisiuxf3n-final' on
+  page 10 undefined on input line 1708.
+[WARNING] [makePDF] LaTeX Warning: There were undefined references.
+[WARNING] Missing character: There is no 🥇 (U+1F947) (U+1F947) in font [lmroman10-regular]:mapping=
+[WARNING] Missing character: There is no 🥈 (U+1F948) (U+1F948) in font [lmroman10-regular]:mapping=
+[WARNING] Missing character: There is no 🥉 (U+1F949) (U+1F949) in font [lmroman10-regular]:mapping=
+[WARNING] Missing character: There is no 🔥 (U+1F525) (U+1F525) in font [lmroman10-regular]:mapping=
+[WARNING] Missing character: There is no 🟡 (U+1F7E1) (U+1F7E1) in font [lmroman10-regular]:mapping=
+[WARNING] Missing character: There is no 🔴 (U+1F534) (U+1F534) in font [lmroman10-regular]:mapping=
+[WARNING] Missing character: There is no 📊 (U+1F4CA) (U+1F4CA) in font [lmroman10-regular]:mapping=
+[WARNING] Missing character: There is no 🎯 (U+1F3AF) (U+1F3AF) in font [lmroman10-regular]:mapping=
+[WARNING] Missing character: There is no 🥇 (U+1F947) (U+1F947) in font [lmroman10-bold]:mapping=tex
+[WARNING] Missing character: There is no 🥈 (U+1F948) (U+1F948) in font [lmroman10-bold]:mapping=tex
+[WARNING] Missing character: There is no 🥉 (U+1F949) (U+1F949) in font [lmroman10-bold]:mapping=tex
+[WARNING] Missing character: There is no 🔥 (U+1F525) (U+1F525) in font [lmroman12-bold]:mapping=tex
+[WARNING] Missing character: There is no 🟡 (U+1F7E1) (U+1F7E1) in font [lmroman12-bold]:mapping=tex
+[WARNING] Missing character: There is no 🔴 (U+1F534) (U+1F534) in font [lmroman12-bold]:mapping=tex
+[WARNING] Missing character: There is no 📊 (U+1F4CA) (U+1F4CA) in font [lmroman12-bold]:mapping=tex
+[WARNING] Missing character: There is no 🎯 (U+1F3AF) (U+1F3AF) in font [lmroman12-bold]:mapping=tex
+[WARNING] Missing character: There is no ≥ (U+2265) (U+2265) in font [lmroman10-regular]:mapping=t
+[WARNING] Missing character: There is no ≥ (U+2265) (U+2265) in font [lmroman10-regular]:mapping=t
+[WARNING] Missing character: There is no ≥ (U+2265) (U+2265) in font [lmroman10-regular]:mapping=t
+[WARNING] Missing character: There is no ≥ (U+2265) (U+2265) in font [lmroman10-regular]:mapping=t
