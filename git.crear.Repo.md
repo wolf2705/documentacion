@@ -330,5 +330,6 @@ git push --force-with-lease
 
 Como esto reescribe el historial, evita hacerlo en una rama compartida sin coordinarlo con quienes la usan.
 
+# Como eliminar un log especifico
 
 
